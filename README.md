@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Tony, and I'm a junior fullstack developer with experience in Node.js, React, and TypeScript.
+My name is Tony, and I'm a middle fullstack developer with experience in Node.js, React, and TypeScript.
 
 🚀 I'm passionate about creating innovative web applications that solve real-world problems, and I'm always looking for new projects to work on.
 
