@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Tony, and I'm a senior backend developer Primarstufe, but also a frontend with experience in Node.js, React, and TypeScript.
+My name is Tony, and I'm a senior, primary backend developer, but also a frontend with experience in Node.js, React, and TypeScript.
 
 🚀 I'm passionate about creating innovative web applications that solve real-world problems, and I'm always looking for new projects to work on.
 
